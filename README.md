@@ -1,4 +1,6 @@
-# Demo Angular frontend project, searchable database of Hungarian court decisionsFrontend
+# Demo Angular frontend project, searchable database of Hungarian court decisions
+
+(Relating backend project: https://github.com/Verdict-Search-App-Team/Verdict-Search-App-Backend)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
