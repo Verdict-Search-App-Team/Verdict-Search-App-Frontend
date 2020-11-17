@@ -1,4 +1,4 @@
-# Frontend
+# Demo Angular frontend project, searchable database of Hungarian court decisionsFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
